@@ -11,3 +11,5 @@ Processor: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz (8 Cores, 8 Treads)
 -SIMD single-thread:	32.9996 ms <br />
 -SIMD multi-thread (8 threads):	15.20969 ms <br />
 
+![fractal_SIMD_MT](https://user-images.githubusercontent.com/48512015/128336590-c863618f-49cf-49fb-b69e-11a9b1beb98c.jpg)
+(Expected output for images (conveted to JPG from BMP) {Example extracted from output of SIMD-MT))
